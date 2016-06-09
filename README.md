@@ -1,2 +1,5 @@
 # hello-world
-My hello world repository
+
+I delete one line
+
+Today is June 6, 2016.  Feel good about everything.
